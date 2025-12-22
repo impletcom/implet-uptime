@@ -4,18 +4,20 @@
     "url": "https://implet.com",
     "icon": "https://icons.duckduckgo.com/ip3/implet.com.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 225,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 332,
+    "timeDay": 436,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
+    "dailyMinutesDown": {
+      "2025-12-22": 7
+    }
   },
   {
     "name": "Implet Workflow",
@@ -42,17 +44,19 @@
     "url": "https://analytics.implet.com/api/heartbeat",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.implet.com.ico",
     "slug": "implet-analytics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 419,
-    "timeWeek": 421,
-    "timeMonth": 421,
-    "timeYear": 421,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 415,
+    "timeDay": 392,
+    "timeWeek": 415,
+    "timeMonth": 415,
+    "timeYear": 415,
+    "dailyMinutesDown": {
+      "2025-12-22": 7
+    }
   }
 ]
