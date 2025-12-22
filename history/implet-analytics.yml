@@ -1,7 +1,7 @@
 url: https://analytics.implet.com/api/heartbeat
-status: up
-code: 200
-responseTime: 419
-lastUpdated: 2025-12-21T23:02:39.915Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-12-22T21:51:03.602Z
 startTime: 2025-12-16T17:02:34.602Z
 generator: Upptime <https://github.com/upptime/upptime>
