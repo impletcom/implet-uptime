@@ -22,18 +22,20 @@
     "url": "https://workflow.implet.com/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/workflow.implet.com.ico",
     "slug": "implet-workflow",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 496,
-    "timeWeek": 623,
-    "timeMonth": 623,
-    "timeYear": 623,
-    "dailyMinutesDown": {}
+    "time": 2991,
+    "timeDay": 10034,
+    "timeWeek": 2991,
+    "timeMonth": 2991,
+    "timeYear": 2991,
+    "dailyMinutesDown": {
+      "2025-12-22": 0
+    }
   },
   {
     "name": "Implet Analytics",
