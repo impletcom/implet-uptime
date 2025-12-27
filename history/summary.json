@@ -4,18 +4,20 @@
     "url": "https://implet.com",
     "icon": "https://icons.duckduckgo.com/ip3/implet.com.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 325,
-    "timeWeek": 387,
-    "timeMonth": 364,
-    "timeYear": 364,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 357,
+    "timeDay": 287,
+    "timeWeek": 374,
+    "timeMonth": 357,
+    "timeYear": 357,
+    "dailyMinutesDown": {
+      "2025-12-27": 8
+    }
   },
   {
     "name": "Implet Workflow",
